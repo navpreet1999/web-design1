@@ -1,0 +1,49 @@
+#outer_container{
+	float: left;
+	width: 100%;
+}
+#blue{
+	float: left;
+	width: 50%;
+	height: 10rem;
+	background: blue;
+}
+#red{
+	float: left;
+	width: 50%;
+	height: 10rem;
+	background: red;
+}
+#green{
+	float: left;
+	width: 100%;
+	height: 10rem;
+	background: green;
+}  
+#orange{
+	float: left;
+	width: 33.3%;
+	height: 10rem;
+	background: orange;
+}
+#purple{
+	float: left;
+	width: 33.3%;
+	height: 10rem;
+	background:purple;
+}
+#pink{
+	float:left;
+	width: 33.3%;
+	height: 10rem;
+	background:pink;
+
+
+
+}	
+
+
+
+*{
+	box-sizing: border-box;
+}
