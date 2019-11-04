@@ -1,0 +1,56 @@
+#outer container{
+	width:100%;
+	float:left;
+}
+
+
+
+#header{
+	
+	float:left;
+	width:100%;
+	height:10 rem;
+	background colour:black;
+}
+#logo{
+	float:left;
+	width:33.3%;
+	height:10 rem;
+	background colour:green;
+}
+#tag{
+	float:left;
+	width:33.3%;
+	height:10 rem;
+	background colour:pink;
+}
+#navigation{
+	float:left;
+	width:33.3%;
+	height:10 rem;
+	background colour:purple;
+}
+#left{
+	float:left;
+	width:40%;
+	height:30 rem;
+	backround colour:yellow;
+}
+#content{
+	float:left;
+	width:20%;
+	height:30 rem;
+	background colour:red;
+}
+#right{
+	float:left;
+	width:40%;
+	height:30 rem;
+	background colour:blue;
+}
+#footer{
+	width:100%;
+	float:left;
+	background colour:black;
+	height:10 rem;
+}
