@@ -1,0 +1,22 @@
+#outer_container{
+	float:left;
+	width:100%;
+}
+#brown{
+	float:left;
+	width:100%;
+	height:10rem;
+	background:brown;
+}
+#yellow{
+	float:left;
+	width:30%;
+	height:10rem;
+	background:yellow;
+}
+#pink{
+	float:left;
+	width:70%;
+	height:10rem;
+	background:pink;
+}
