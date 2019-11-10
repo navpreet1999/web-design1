@@ -1,0 +1,37 @@
+#outer container{
+	width:100%;
+	float:left;
+}
+#header{
+	width:100%;
+	float:left;
+	background:black;
+	height:10rem;
+	text-align: left;
+	colour:white;
+	font size:10px;
+}
+#grey{
+	width:20%;
+	float:left;
+	background:grey;
+	height:500px;
+}
+#white{
+	width:60%;
+	float:left;
+	background:white;
+	height:10rem;
+}
+#grey1{
+	width:20%;
+	float:left;
+	background:grey;
+	height:500px;
+}
+#footer{
+	width:100%;
+	float:left;
+	background:black;
+	height:70px;
+}
